@@ -5,7 +5,8 @@ A simple web project that generates a random color and shows its HEX code.
 ## Features
 - Generates a random color
 - Displays the HEX color code
-- Built with simple HTML, CSS, and JavaScript
+- Display colors visually
+
 
 ## Technologies
 - HTML
