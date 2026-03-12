@@ -1,16 +1,16 @@
 # 🎨 Random Color Generator
 
-A simple and elegant web application that generates random colors and displays their HEX codes. Perfect for designers, developers, and anyone who needs color inspiration!
+A simple and elegant web application that generates random color with a valid HEX code! Perfect for designers, developers, and anyone who needs some colorful inspiration!
 
 ## ✨ Features
 
-- 🎯 Generates random colors with a single click
-- 🔤 Displays the HEX color code for easy copying
-- 🎨 Visual color display with smooth transitions
-- 📋 Copy to clipboard functionality
-- 💾 Clean and intuitive user interface
+- 🎯 Generates random colors with one singular single click!
+- 🔤 Displays the HEX color code for easy copying, sharing and identification
+- 🎨 Visual color display with nice, smooth transitions
+- 📋 supports Copying to your clipboard!
+- 💾 Clean, simple and intuitive user interface
 
-## 🛠️ Technologies
+## 🛠️ Used languages
 
 - **HTML5** - Structure and markup
 - **CSS3** - Styling and animations
@@ -43,8 +43,8 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created by [v33550336](https://github.com/v33550336)
+README Created by [v33550336](https://github.com/v33550336)
 
 ---
 
-**Enjoy generating beautiful colors! 🌈**
+**Enjoy filling the world with beautiful colors! 🌈**
